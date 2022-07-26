@@ -19,6 +19,6 @@
   "homepage": "https://github.com/xiov91/make-tracks#readme",
   "dependencies": {
     "inquirer": "^8.0.0",
-    "mysql": "^2.18.1"
+    "mysql2": "^2.3.3"
   }
 }
